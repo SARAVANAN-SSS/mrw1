@@ -1,0 +1,50 @@
+[
+  {
+    "id" : "100",
+    "name": "Kaithi(2019)",
+    "poster": "https://i.pinimg.com/originals/7d/9f/97/7d9f9738122bd0df2905600c2548d211.jpg",
+    "rating": 8.5,
+    "summary": "Dilli, an ex-convict, endeavours to meet his daughter for the first time after leaving prison. However, his attempts are interrupted due to a drug raid planned by Inspector Bejoy.",
+    "trailer": "https://www.youtube.com/embed/hxPjWqyIhVA"
+  },
+  {
+    "id" : "101",
+    "name": "Asuran(2019)",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDgwZWUyYzctOGU1NC00ZTFkLTgxM2EtNGU0ZWUwY2Y3YjhkXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_.jpg",
+    "rating": 9,
+    "summary": "The teenage son of a farmer from an underprivileged caste kills a rich, upper caste landlord. Will the farmer, a loving father and a pacifist by heart, be able to save his hot-blooded son is the rest of the story.",
+    "trailer": "https://www.youtube.com/embed/vOCM9wztBYQ"
+  },
+  {
+    "id" : "102",
+    "name": "KGF1(2018)",
+    "poster": "https://wallpaperaccess.com/full/2365094.jpg",
+    "rating": 8,
+    "summary": "In the 1970s, a gangster goes undercover as a slave to assassinate the owner of a notorious gold mine.",
+    "trailer": "https://www.youtube.com/embed/-KfsY-qwBS0"
+  },
+  {
+    "id" : "103",
+    "name": "KGF2(2022)",
+    "poster": "https://cdn.bollywoodmdb.com/fit-in/movies/largethumb/2019/k-g-f-chapter-2/k-g-f-chapter-2-poster-4.jpg",
+    "rating": 7.5,
+    "summary": "In the blood-soaked Kolar Gold Fields, Rocky's name strikes fear into his foes. While his allies look up to him, the government sees him as a threat to law and order. Rocky must battle threats from all sides for unchallenged supremacy.",
+    "trailer": "https://www.youtube.com/embed/JKa05nyUmuQ"
+  },
+  {
+    "id" : "104",
+    "name": "Baahubali1",
+    "poster": "https://pbs.twimg.com/media/CIuhPFwUkAAJPuO.jpg",
+    "rating": 8,
+    "summary": "In ancient India, an adventurous and daring man becomes involved in a decades-old feud between two warring peoples.",
+    "trailer": "https://www.youtube.com/embed/sOEg_YZQsTI"
+  },
+  {
+    "id" : "105",
+    "name": "Baahubali2",
+    "poster": "https://st1.bollywoodlife.com/wp-content/uploads/2017/04/Baahubali-2-6.jpg",
+    "rating": 8,
+    "summary": "When Shiva, the son of Bahubali, learns about his heritage, he begins to look for answers. His story is juxtaposed with past events that unfolded in the Mahishmati Kingdom.",
+    "trailer": "https://www.youtube.com/embed/qD-6d8Wo3do"
+  }
+]

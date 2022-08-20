@@ -1,0 +1,84 @@
+.App {
+  font-family: "Roboto";
+}
+
+.movie-poster {
+  height: 540px;
+  width: 320px;
+  object-fit: cover;
+}
+
+.movie-container {
+  width: 320px;
+}
+
+.movie-specs {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.movie-trailer {
+  width: min-content;
+}
+
+.movie-sspecs {
+  width: 700px;
+}
+
+.movie-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 0.5rem;
+  justify-items: center;
+}
+
+.movie-name {
+  text-transform: capitalize;
+}
+
+.counter-container {
+  display: flex;
+  gap: 10px;
+}
+
+.add-movie-btn {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin: auto;
+}
+
+.dark-light {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  max-height: 75vh;
+}
+
+.delete-button {
+  display: flex;
+  gap: 10px;
+}
+
+body {
+  margin: 0;
+}
+
+.home {
+  min-height: 70vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.navigation {
+  margin-top: 30px;
+  padding: 24px;
+}
+
+.not-found {
+  text-align: center;
+}
